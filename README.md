@@ -1,12 +1,6 @@
-Hello, I am Zin Lin Htet (Gamani) from Myanmar.
+<h3>Hello, </h3>
 
-I was graduated with BE (IT) from Technological University (Mandalay).
-
-I studied about web development. 
-
-The skills I have : HTML, CSS, Bootstrap, JavaScript, jQuery, Ajax, Vue, PHP and Laravel, Git and Github, Security Basic and Network, Shell, MySQL, REST API, Coding Standard, Unit Testing/Combined Testing documentations.
-
-Now I'm currently working as Junior Web Developer at Brycen Myanmar.
+I am Zin Lin Htet (Gamani) from Myanmar. I was graduated with BE (IT) from Technological University (Mandalay). Transitioning from Telecom, I am now a Junior Web Developer at Brycen Myanmar. Proficient in HTML, CSS, Bootstrap, JavaScript, jQuery, Ajax, Vue, PHP and Laravel, Git and Github, Security Basic and Network, Shell, MySQL, REST API, Coding Standard, Unit Testing/Combined Testing documentations, I craft web solutions with a focus on user experience. In the dynamic IT landscape, I am dedicated to continuous learning and innovation.
 
 Languages and Tools
 
