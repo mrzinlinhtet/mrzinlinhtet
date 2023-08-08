@@ -15,4 +15,4 @@ Contact me
 
 Languages and Tools
 
-[![My Skills](https://skills.thijs.gg/icons?i=jquery,Ajax,javascript,vuejs,php,laravel,bootstrap,git,github,gitlab,vscode)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=jquery,javascript,vuejs,php,laravel,bootstrap,git,github,gitlab,vscode)](https://skills.thijs.gg)
