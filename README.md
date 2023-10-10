@@ -4,7 +4,7 @@ I am Zin Lin Htet (Gamani) from Myanmar. I was graduated with BE (IT) from Techn
 
 Languages and Tools
 
-[![My Skills](https://skills.thijs.gg/icons?i=bootstrap,tailwind,javascript,vuejs,react,php,laravel,mysql,git,github,gitlab,vscode)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=bootstrap,tailwind,javascript,vuejs,react,angular,php,laravel,java,mysql,git,github,gitlab,vscode)](https://skills.thijs.gg)
 
 Contact me
 
