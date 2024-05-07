@@ -2,9 +2,15 @@
 
 I am Zin Lin Htet (Gamani) from Myanmar. I was graduated with BE (IT) from Technological University (Mandalay). Transitioning from Telecom field, I have been working as a System Engineer about 1 year at Bliss Stock. Currently working at Brycen Myanmar as a Web Developer specialized in Angular and Java development. I craft web solutions with a focus on user experience. In the dynamic IT landscape, I am dedicated to continuous learning and innovation.
 
-Languages and Tools
+### Languages and Tools
 
-[![My Skills](https://skills.thijs.gg/icons?i=bootstrap,tailwind,javascript,vuejs,react,angular,php,laravel,java,mysql,git,github,gitlab,vscode,eclipse)](https://skills.thijs.gg)
+[![Languages and Tools](https://skillicons.dev/icons?i=bootstrap,tailwind,javascript,vuejs,react,angular,php,laravel,java,mysql,git,github,gitlab,vscode,eclipse)](https://skillicons.dev)
+
+### Status
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mrzinlinhtet)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrzinlinhtet)](https://git.io/streak-stats)
 
 Contact me
 
