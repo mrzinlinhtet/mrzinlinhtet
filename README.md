@@ -1,6 +1,8 @@
 <h3>Hello, </h3>
 
-I am Zin Lin Htet (Gamani) from Myanmar. I was graduated with BE (IT) from Technological University (Mandalay). Transitioning from Telecom field, I have been working as a System Engineer about 1 year at Bliss Stock. Currently working at Brycen Myanmar as a Web Developer specialized in Angular and Java development. I craft web solutions with a focus on user experience. In the dynamic IT landscape, I am dedicated to continuous learning and innovation.
+I am Zin Lin Htet (Gamani) from Myanmar. I was graduated with BE in Information Technology from Technological University (Mandalay). Transitioning from Telecom field, where I have 3 years of experience, I have been working as a Web Developer for about 2 year at Bliss Stock and Brycen Myanmar. Currently working at Fixie Myanmar as a Web Developer specialized in Java development.
+
+In the dynamic IT landscape, I'm dedicated to continuous learning and innovation.
 
 ### Languages and Tools
 
